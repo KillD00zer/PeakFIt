@@ -56,4 +56,4 @@ This project analyzes inventory discrepancies from the PeakFit Essentials store 
    ```
 
 ## 📌 Author
-Ahmed – Data Analyst & Inventory Specialist
+Ahmed – Data Scientist
